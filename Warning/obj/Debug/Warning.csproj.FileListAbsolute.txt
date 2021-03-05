@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Warning\bin\Debug\Warning.exe.config
+C:\Users\user\source\repos\Warning\bin\Debug\Warning.exe
+C:\Users\user\source\repos\Warning\bin\Debug\Warning.pdb
+C:\Users\user\source\repos\Warning\obj\Debug\Warning.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Warning\obj\Debug\Warning.Form1.resources
+C:\Users\user\source\repos\Warning\obj\Debug\Warning.Properties.Resources.resources
+C:\Users\user\source\repos\Warning\obj\Debug\Warning.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Warning\obj\Debug\Warning.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Warning\obj\Debug\Warning.exe
+C:\Users\user\source\repos\Warning\obj\Debug\Warning.pdb
