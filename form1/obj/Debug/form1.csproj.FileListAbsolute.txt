@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\影像處理\form1\bin\Debug\form1.exe.config
+C:\Users\user\source\repos\影像處理\form1\bin\Debug\form1.exe
+C:\Users\user\source\repos\影像處理\form1\bin\Debug\form1.pdb
+C:\Users\user\source\repos\影像處理\form1\obj\Debug\form1.Form1.resources
+C:\Users\user\source\repos\影像處理\form1\obj\Debug\form1.Properties.Resources.resources
+C:\Users\user\source\repos\影像處理\form1\obj\Debug\form1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\影像處理\form1\obj\Debug\form1.exe
+C:\Users\user\source\repos\影像處理\form1\obj\Debug\form1.pdb
+C:\Users\user\source\repos\影像處理\form1\bin\Debug\Interop.WMPLib.dll
+C:\Users\user\source\repos\影像處理\form1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\user\source\repos\影像處理\form1\obj\Debug\Interop.WMPLib.dll
+C:\Users\user\source\repos\影像處理\form1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\user\source\repos\影像處理\form1\obj\Debug\form1.csproj.ResolveComReference.cache
